@@ -2,6 +2,7 @@
 header("Access-Control-Allow-Origin: *");
 include("conexion.php");
 
+
 $sentencia = "select * from reserva";
 
 
